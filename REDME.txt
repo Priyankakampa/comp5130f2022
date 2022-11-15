@@ -1,0 +1,28 @@
+Tools and Technology Requirements:-
+(i) Operating System : Window 11
+(ii) Programming Language : Java
+(iii) Java Version : JAVA SE Version 16.01 & above
+(iv) Database : MYSQL
+ 
+Introduction
+ 
+Purpose:- A project to give an employee to get an opportunity to work on their skills as well as a recruiter to find his/her best employee to their company.
+ 
+Existing System: - There are few webpages/webapps for the employee to upload their resumes, create a profile and search for the jobs. All these applications has one routine feature that only employee need to upload his/her resume and complete the profile, then search for the desired jobs. Here the employee need to put a request to the company then wait for their response. If the criteria matches then he/she will be called for the interview or an offer letter will be sent through mails.
+ 
+Literature survey: - With the existing system, people are facing the following problems listed below
+a.	The waiting period from the company is very long.
+b.	Most of the companies prefer only the experienced employees
+c.	Freshers are lagging behind with a confused state about the industries to choose and tend to join a industry where they are not worthy for their highly talented skills
+d.	Most difficult situation facing by a fresher is “ REFERENCE & RECOMANDATION”.
+ 
+Proposed System :- This project focuses on the freshers and new industries, not that the experienced employees and on going industries can’t access the page. Mainly this project is the solution for the fresher and new industries. Lets talk about Freshers and experienced employees,
+(i)               As soon as the fresher finishes or in the final semester of his/her course, can register in the webpage but giving the general information of their course or projects or skills, etc., he/she can also give the mobile number if in case to get any further notifications. Once a user profile is created they can login and check for the notifications. Here notifications includes how many companies viewed their profile, controlling the requests sent from a company.
+(ii)              Experienced employees has similar features as freshers and he/she will be give the previous job details and technologies he/she came up and how well they have the ability to take our the senior post.
+Now the Industries or the companies recruiters should follow the following steps:-
+               STEP 1 :- register and create a profile providing all the information related to the post which they want to fill and the details of the company.
+STEP 2 :- login and search for the profile which is suitable to the company.
+STEP 3 :- send the requested to the required employee profile
+STEP 4 :- if the request is approved they has to schedule for video interview and call for face to face test.
+ 
+Conclusion :- Project mainly wants to give best opportunity to new industries to search for the employees and also to the fresher who are recent passed out who are seeking for the job opportunities. This resolves all the entities in the literature survey. This project will be build in such as that it can be extended as a mobile application with updated features same as the other applications do at certain times.
